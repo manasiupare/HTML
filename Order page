@@ -1,0 +1,30 @@
+<html>
+  <body>
+    <table>
+      <tr bgcolor="gray">
+        <td width="150">Item</td>
+        <td width="150">Quantity</td>
+      </tr>
+      
+      <tr>
+        <td>Tires</td>
+        <td><input type="text"></td>
+      </tr>
+      
+      <tr>
+        <td>Oil</td>
+        <td><input type="text"></td>
+      </tr>
+      
+      <tr>
+        <td>Cleaner</td>
+        <td><input type="text"></td>
+      </tr>
+      
+      <tr>
+        <td colspan="2" align="center"><input type="submit"></td>
+      </tr>
+      
+    </table>
+  </body>
+</html>
